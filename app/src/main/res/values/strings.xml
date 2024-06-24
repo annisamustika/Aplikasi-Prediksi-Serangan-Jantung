@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HeartSafe</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="nav_tentang_title">Tentang Aplikasi</string>
+    <string name="nav_dataset_title">Dataset</string>
+    <string name="nav_fitur_title">Fitur</string>
+    <string name="nav_model_title">Model</string>
+    <string name="nav_simulasimodel_title">Simulasi Model</string>
+    <string name="Deskripsi">HeartSafe adalah aplikasi yang membantu memprediksi risiko serangan jantung secara dini.</string>
+    <string name="desc">Aplikasi ini dirancang untuk menganalisis dan memprediksi risiko serangan jantung berdasarkan dataset dari Kaggle yang dikumpulkan oleh Rashik Rahman Pritom. Dataset ini berisi berbagai fitur kesehatan seperti usia, jenis kelamin, tekanan darah, kadar kolesterol, detak jantung maksimal, dan beberapa parameter lainnya yang terkait dengan kesehatan jantung.</string>
+    <string name="desc1">Tujuan Utama Aplikasi Ini :\n\n&#8226; Meningkatkan Kesadaran Kesehatan: Membantu individu memahami faktor risiko terkait serangan jantung melalui analisis data kesehatan pribadi mereka.\n\n&#8226; Deteksi Dini: Menyediakan alat prediksi yang dapat membantu dalam deteksi dini potensi serangan jantung, memungkinkan intervensi medis yang lebih cepat dan tepat.</string>
+    <string name="desc2">Cara penggunaan aplikasi ini yaitu dengan memasukkan data pribadi ke dalam halaman simulasi. Setelah data diisi, aplikasi akan menganalisis informasi tersebut untuk memprediksi risiko seseorang mengalami serangan jantung atau tidak.</string>
+    -------Model-------
+    <string name="desc4">Model Artificial Neural Network (ANN) adalah sebuah model matematis yang terinspirasi dari cara kerja jaringan saraf biologis dalam otak manusia. ANN terdiri dari beberapa lapisan neuron atau unit pemrosesan informasi yang saling terhubung.</string>
+    <string name="desc5">Model Artificial Neural Network (ANN)</string>
+    <string name="desc6">0.7692307692307693</string>
+    -------Fitur-------
+    <string name="desc7">Usia pasien (tipe data : int64).</string>
+    <string name="desc8">Jenis kelamin pasien (tipe data : int64).</string>
+    <string name="desc9">Tipe nyeri dada (tipe data : int64)</string>
+    <string name="desc10">Tekanan darah istirahat dalam mm/Hg (tipe data : int64).</string>
+    <string name="desc11">Kolesterol serum mg/dl (tipe data : int64).</string>
+    <string name="desc12">Gula darah puasa > 120 mg/dl (tipe data : int64).</string>
+    <string name="desc13">Hasil elektrokardiografi (tipe data : int64).</string>
+    <string name="desc14">Denyut jantung maksimum yang tercapai (tipe data : int64).</string>
+    <string name="desc15">Angina yang diinduksi oleh latihan (tipe data : int64).</string>
+    <string name="desc16">Depresi ST yang diinduksi oleh latihan relatif terhadap istirahat (tipe data : float64).</string>
+    <string name="desc17">Kemiringan segmen ST puncak latihan (tipe data : int64).</string>
+    <string name="desc18">Jumlah pembuluh darah besar yang diwarnai oleh fluoroskopi (tipe data : int64).</string>
+    <string name="desc19">Hasil tes stres thalium (tipe data : int64).</string>
+    <string name="desc20">Target (tipe data : int64).</string>
+    -------Dataset-------
+    <string name="desc21">Heart Attack Analysis dan Prediction Dataset</string>
+    <string name="desc22">Dataset heart attack berisi data medis untuk menganalisis dan memprediksi risiko serangan jantung. Terdiri dari 303 baris dan beberapa fitur seperti usia, jenis kelamin, tekanan darah, kadar kolesterol, dan denyut jantung maksimum.</string>
+    <string name="desc23">303 baris, 14 kolom</string>
+    <string name="desc24">Kaggle, author : RASHIK RAHMAN https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset</string>
+</resources>
